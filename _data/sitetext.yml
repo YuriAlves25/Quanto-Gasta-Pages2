@@ -15,11 +15,11 @@ en: &DEFAULT_EN
   
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Sobre"
+    text: ""
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Projeto Extensão Unifil"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
