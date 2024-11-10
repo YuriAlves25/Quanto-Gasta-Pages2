@@ -129,7 +129,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
-  contact:
+  #contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
     section: contact
